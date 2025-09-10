@@ -11,34 +11,29 @@
   <img src="https://img.shields.io/badge/Projects-74%2B-informational?logo=project" />
 </div>
 
-<!-- Visitor Counter (use your username) -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=navuxneeth&style=flat-square&color=blue" alt="Visitor Counter" />
-</div>
-
 ---
 
-## 👋 Hi, I'm Navaneeth Sankar K.P
+Hi, I'm Navaneeth Sankar K.P
 
-🌱 **Currently:**  
-- 🧑‍🎓 Dual-degree: B.Des (UX Design, MIT-ID Pune) & B.S (Data Science, IIT Madras)  
-- 🚀 Strategic Growth Partner @ [Perplexity](https://www.perplexity.ai)  
-- 📚 First-author of 5+ research papers (AI, HCI, UX/Data Science)  
-- 🛠️ 4+ years, 74+ projects: B2B, B2C, SaaS, 3D, branding
+Currently:  
+- Dual-degree: B.Des (UX Design, MIT-ID Pune) & B.S (Data Science, IIT Madras)  
+- Strategic Growth Partner at Perplexity  
+- First-author of 5+ research papers (AI, HCI, UX/Data Science)  
+- 4+ years, 74+ projects: B2B, B2C, SaaS, 3D, branding
 
 ---
 
 <details>
-<summary>🎓 <b>Education</b></summary>
+<summary>Education</summary>
 <ul>
-<li><b>MIT Institute of Design, Pune</b> (B.Des in User Experience Design, 2023–2027)</li>
-<li><b>IIT Madras</b> (B.S in Data Science & Applications, 2024–2028)</li>
+<li>MIT Institute of Design, Pune (B.Des in User Experience Design, 2023–2027)</li>
+<li>IIT Madras (B.S in Data Science & Applications, 2024–2028)</li>
 <li>Polygon School Of Design · THiNC Institute · CBSE (PCMB)</li>
 </ul>
 </details>
 
 <details>
-<summary>💼 <b>Work Experience</b></summary>
+<summary>Work Experience</summary>
 <ul>
 <li>Perplexity – Strategic Growth Partner (2025–Present)</li>
 <li>Wilson Wings – Founding UX Researcher (2025)</li>
@@ -50,9 +45,9 @@
 </details>
 
 <details>
-<summary>📑 <b>Selected Projects & Research</b></summary>
+<summary>Selected Projects & Research</summary>
 <ul>
-<li><b>Beyond the Turing Test</b>: Authenticity of AI-generated qualitative data in HCI</li>
+<li>Beyond the Turing Test: Authenticity of AI-generated qualitative data in HCI</li>
 <li>ICoRD'25, FDE'24 IIT Conferences: AI/UX interplay, podium presentations</li>
 <li>Logo Designs: ChemNotes, MathNotes, BioNotes, PhyNotes</li>
 <li>Photography: Meatonz branding & product shoots</li>
@@ -60,19 +55,19 @@
 </details>
 
 <details>
-<summary>🏅 <b>Certifications & Awards</b></summary>
+<summary>Certifications & Awards</summary>
 <ul>
-<li>🥉 3rd Place Product Design, Archcult (NIT Trichy)</li>
-<li>🏅 Google UX Design (Foundations, Empathize, Wireframes)</li>
-<li>🏅 Udemy: Blender3D & Substance Painter</li>
-<li>🏅 Colorcode: Adobe Suite</li>
-<li>🏅 EF SET: C2 Level English</li>
+<li>3rd Place Product Design, Archcult (NIT Trichy)</li>
+<li>Google UX Design (Foundations, Empathize, Wireframes)</li>
+<li>Udemy: Blender3D & Substance Painter</li>
+<li>Colorcode: Adobe Suite</li>
+<li>EF SET: C2 Level English</li>
 </ul>
 </details>
 
 ---
 
-## 🛠️ Skills & Tech Stack
+Skills & Tech Stack  
 ![Figma](https://img.shields.io/badge/Figma-333?logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?logo=framer)
 ![Adobe Suite](https://img.shields.io/badge/Adobe-Photoshop%2C%20XD%2C%20Illustrator-red?logo=adobe)
@@ -84,7 +79,7 @@
 
 ---
 
-## 🌐 Connect & Explore
+Connect & Explore
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-be.net/navaneethsankar-purple?logo=behance&logoColor=white)](https://be.net/navaneethsankar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Navaneeth%20Sankar%20K.P-blue?logo=linkedin)](https://linkedin.com/in/navaneeth-sankar-k-p)
@@ -93,43 +88,10 @@
 ---
 
 <details>
-<summary>💬 <b>Fun Facts & Community</b></summary>
+<summary>Community</summary>
 <ul>
-<li>🗺️ Level 4 Google Maps Local Guide (150K+ views, 75+ contributions)</li>
-<li>💡 Quora Contributor: 200+ answers, 600K+ views</li>
-<li>🎂 Birthday: September 16</li>
+<li>Google Maps Local Guide (150K+ views, 75+ contributions)</li>
+<li>Quora Contributor: 200+ answers, 600K+ views</li>
+<li>Birthday: September 16</li>
 </ul>
 </details>
-
----
-
-## 🔥 GitHub Stats & Streaks
-
-<div align="center">
-
-<!-- GitHub Stats Card (Dark Mode) -->
-<img src="https://github-readme-stats.vercel.app/api?username=navuxneeth&show_icons=true&count_private=true&hide=prs&theme=github_dark" alt="Navaneeth's GitHub stats" />
-
-<!-- GitHub Streak (Dark Mode) -->
-<img src="https://streak-stats.demolab.com/?user=navuxneeth&theme=dark" alt="GitHub Streak" />
-
-<!-- Top Languages (Dark Mode) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navuxneeth&layout=compact&theme=github_dark" alt="Top Languages" />
-
-</div>
-
----
-
-<details>
-<summary>🔗 <b>Featured Repositories</b></summary>
-<ul>
-<li><a href="https://github.com/navuxneeth/SoulCat">SoulCat</a> – AI-powered emotion journaling</li>
-<li><a href="https://github.com/navuxneeth/PixelFocus">PixelFocus</a> – UX/UI design system</li>
-<li><a href="https://github.com/navuxneeth/DynaMatch">DynaMatch</a> – ML-driven matching platform</li>
-<li><a href="https://github.com/navuxneeth/SmolCam">SmolCam</a> – Minimal camera app</li>
-</ul>
-</details>
-
----
-
-> _“Striving to lead and adapt to the transformative shifts at the intersection of design and data science, with a relentless pursuit of balance, creativity, and impact.”_
