@@ -7,19 +7,17 @@
   <!-- Shields for education, research, projects -->
   <img src="https://img.shields.io/badge/User%20Experience%20Design-MIT%20Institute%20of%20Design-blue?logo=mit" />
   <img src="https://img.shields.io/badge/Data%20Science-IIT%20Madras-orange?logo=python" />
-  <img src="https://img.shields.io/badge/Research%20Papers-5%20first-authored-success?logo=bookstack" />
-  <img src="https://img.shields.io/badge/Projects-74%2B-informational?logo=project" />
 </div>
 
 ---
 
-Hi, I'm Navaneeth Sankar K.P
+Hi, I'm Navaneeth Sankar K.P.
 
 Currently:  
 - Dual-degree: B.Des (UX Design, MIT-ID Pune) & B.S (Data Science, IIT Madras)  
 - Strategic Growth Partner at Perplexity  
 - First-author of 5+ research papers (AI, HCI, UX/Data Science)  
-- 4+ years, 74+ projects: B2B, B2C, SaaS, 3D, branding
+- 4+ years, 74+ Design projects: B2B, B2C, SaaS, 3D, Branding
 
 ---
 
