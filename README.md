@@ -25,21 +25,21 @@
 <details>
 <summary><tt>Work Experience</tt></summary>
 <ul>
-<li> - - - 4 years --- 7 months</li>
+<li> - - - - - - - - - -  4 years 7 months</li>
 <div>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="18" style="vertical-align:middle;" alt="Perplexity" /> Perplexity: Growth Partner (2025 till Present)
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="18" style="vertical-align:middle;" alt="Perplexity" /> Perplexity - Growth Partner (2025 till Present)
 </div>
 <div>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYH0t_lj5cLdc1TlmJVBBOPeXDHKGqaIK7nQ&s" width="18" style="vertical-align:middle;" alt="Wilson Wings" /> Wilson Wings: Founding UX Researcher of Travlo (2025)
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYH0t_lj5cLdc1TlmJVBBOPeXDHKGqaIK7nQ&s" width="18" style="vertical-align:middle;" alt="Wilson Wings" /> Wilson Wings - Founding UX Researcher of Travlo (2025)
 </div>
 <div>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK0HLiffPw0HWJ0sR3bLLJNVfBFCnJXLjMOg&s" width="18" style="vertical-align:middle;" alt="XIRCLS" /> XIRCLS: B2B UX Design Intern (2024)
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK0HLiffPw0HWJ0sR3bLLJNVfBFCnJXLjMOg&s" width="18" style="vertical-align:middle;" alt="XIRCLS" /> XIRCLS - B2B UX Design Intern (2024)
 </div>
 <div>
-  <img src="https://pbs.twimg.com/profile_images/1441796976916393998/TJd7yOJD_400x400.jpg" width="18" style="vertical-align:middle;" alt="GreenBhumi" /> GreenBhumi: Co-head of Design (2024)
+  <img src="https://pbs.twimg.com/profile_images/1441796976916393998/TJd7yOJD_400x400.jpg" width="18" style="vertical-align:middle;" alt="GreenBhumi" /> GreenBhumi - Co-head of Design (2024)
 </div>
 <div>
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQEMilR_wBRNpw/company-logo_100_100/company-logo_100_100/0/1666347917743/entitydesignstudio_logo?e=1760572800&v=beta&t=8nYbwgmT9sw15UQ_SW5KcI6DsvFeBu3c2TFupKwfg6Q" width="18" style="vertical-align:middle;" alt="Entity Design Studio" /> Entity Design Studio: Design Contractor (2020–2023)
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQEMilR_wBRNpw/company-logo_100_100/company-logo_100_100/0/1666347917743/entitydesignstudio_logo?e=1760572800&v=beta&t=8nYbwgmT9sw15UQ_SW5KcI6DsvFeBu3c2TFupKwfg6Q" width="18" style="vertical-align:middle;" alt="Entity Design Studio" /> Entity Design Studio - Design Contractor (2020–2023)
 </div>
 </ul>
 </details>
