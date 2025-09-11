@@ -49,13 +49,16 @@
 
 <ul>
 <li>
-  <a href="https://link.springer.com/chapter/10.1007/978-981-96-5503-8_12">The Collaborative Interplay Between Data Science and UX Research (Springer Nature, ICoRD'25 Full-Podium)</a>
+  The Collaborative Interplay Between Data Science and UX Research (Nature, ICoRD'25 Full-Podium, IIT Hyderabad)
+  <a href="https://link.springer.com/chapter/10.1007/978-981-96-5503-8_12"><b>[Access Paper]</b></a>
 </li>
 <li>
-  <a href="https://link.springer.com/chapter/10.1007/978-981-96-5503-8_20">On the Evolution of User Experience Design, with Artificial Intelligence and Machine Learning (Springer Nature, ICoRD '25 Full-Podium)</a>
+  On the Evolution of User Experience Design, with Artificial Intelligence and Machine Learning (Nature, ICoRD '25 Full-Podium, IIT Hyderabad)
+  <a href="https://link.springer.com/chapter/10.1007/978-981-96-5503-8_20"><b>[Access Paper]</b></a>
 </li>
 <li>
-  <a href="https://link.springer.com/chapter/10.1007/978-981-97-9210-8_34">AI-Driven Design Future: Preparing the Design Learner in an Era of Artificial Intelligence (Springer Nature, FDE'24)</a>
+  AI-Driven Design Future: Preparing the Design Learner in an Era of Artificial Intelligence (Nature, FDE'24, IIT Delhi)
+  <a href="https://link.springer.com/chapter/10.1007/978-981-97-9210-8_34"><b>[Access Paper]</b></a>
 </li>
 <li>
   Beyond the Turing Test: Assessing the Authenticity of AI-Generated Qualitative Data in HCI (2025)
@@ -122,6 +125,5 @@ My favorite tools:
   <img src="https://img.shields.io/badge/LinkedIn-Navaneeth%20Sankar%20K.P-blue?logo=linkedin" alt="LinkedIn" />
 </a>
 <a href="mailto:nave.ethan1337@gmail.com">
-  <img src="https://img.shields.io/badge/Email-nave.ethan1337%40gmail.com-002147?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGRhdGEtbmFtZT0iTGF5ZXIgMiI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiB4PSIyIiB5PSI0IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHBhdGggZD0iTTQgOCAxMiAxNC44IDIgNiIvPjxwYXRoIGQ9Ik0yMCA4IDEyIDE0LjggMjIgNiIvPjxsaW5lIHgxPSI0IiB5MT0iOCIgeDI9IjIwIiB5Mj0iOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PC9nPjwvc3ZnPg==" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-nave.ethan1337%40gmail.com-154284?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGRhdGEtbmFtZT0iTGF5ZXIgMiI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiB4PSIyIiB5PSI0IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHBhdGggZD0iTTQgOCAxMiAxNC44IDIgNiIvPjxwYXRoIGQ9Ik0yMCA4IDEyIDE0LjggMjIgNiIvPjxsaW5lIHgxPSI0IiB5MT0iOCIgeDI9IjIwIiB5Mj0iOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PC9nPjwvc3ZnPg==" alt="Email" />
 </a>
-
