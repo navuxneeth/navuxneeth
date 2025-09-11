@@ -99,18 +99,17 @@ My favorite tools:
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/500px-Adobe_Photoshop_CC_icon.svg.png" width="40" alt="Photoshop"/><br>Photoshop</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="40" alt="Illustrator"/><br>Illustrator</td>
     <td align="center"><img src="https://spline.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspline_logo.647803e0.png&w=128&q=75" width="40" alt="Spline"/><br>Spline</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSC"/><br>VSC</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" alt="Notion"/><br>Notion</td>
+    <td align="center"><img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="40" alt="Python"/><br>Python</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/><br>HTML5</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/><br>CSS3</td>
+    <td align="center"><img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" width="40" alt="JavaScript"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/><br>VSCode</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" alt="Notion"/><br>Notion</td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/21099005?s=280&v=4" width="40" alt="ProtoPie"/><br>ProtoPie</td>
-    <td align="center"><img src="https://media.licdn.com/dms/image/v2/C4E0BAQFXRF_SIzwJaA/company-logo_200_200/company-logo_200_200/0/1673342998853/jittervideo_logo?e=2147483647&v=beta&t=JOj-iHN4FE-fVqFzPAeY4BOLoQHUnyMZRN1rXylH1dA" width="40" alt="Jitter"/><br>Jitter</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/><br>GitHub</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/><br>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/><br>Python</td>
+    <td align="center"><img src="https://f.hellowork.com/bdmtools/2024/02/Logo-Jitter-150x150.png" width="40" alt="Jitter"/><br>Jitter</td>
+    <td align="center"><img src="https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="40" alt="GitHub"/><br>GitHub</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" alt="AndroidIDE"/><br>AndroidIDE</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" alt="Xcode"/><br>Xcode</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" alt="Swift"/><br>Swift</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" alt="Slack"/><br>Slack</td>
   </tr>
 </table>
