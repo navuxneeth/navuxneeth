@@ -18,14 +18,14 @@
 <li>MIT Institute of Design, Pune (B.Des in User Experience Design, 2023–2027)</li>
 <li>IIT Madras (B.S in Data Science & Applications, 2024–2028) (Parallel Degree)</li>
 <li>Polygon School Of Design (2022) | THiNC Institute of Design (2021)</li>
-<li><b>Certificates</b>: 4/7 Courses of Google UX Design (Coursera, 2022) | Blender 3D and Substance Painter Certification (Udemy, 2022) | Adobe Creative Suite (Colorcode, 2022) | Graphic Design (Kaarwan, 2022) | AutoCAD (ACADD, 2022)</li>
+<li><b>Certificates</b>: 4/7 Courses of Google UX Design (Coursera, 2022) | Blender 3D and Substance Painter (Udemy, 2022) | Adobe Creative Suite (Colorcode, 2022) | Graphic Design (Kaarwan, 2022) | AutoCAD (ACADD, 2022)</li>
 </ul>
 </details>
 
 <details>
 <summary><tt>Work Experience</tt></summary>
 <ul>
-<li> - - - - - - - - - -  4 years 7 months</li>
+<li> - - - - - - - - - - -  4 years 7 months</li>
 <div>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="18" style="vertical-align:middle;" alt="Perplexity" /> Perplexity - Growth Partner (2025 till Present)
 </div>
