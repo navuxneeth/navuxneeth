@@ -1,12 +1,14 @@
-<!-- Animated SVG Banner: UX + Data Science -->
+<!-- Animated SVG Banner: UX + Data Science (Monospace Font) -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DMonospace%26pause%3D1000%26color%3D21B4F7%26width%3D700%26lines%3DUX%2B%252B%2BData%2BScience%2B%253D%2BRemarkable%2BProducts;" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=21B4F7&width=700&lines=[(UX)+%2B+(Data+Science)]+%3D+[Remarkable+Products];" alt="Typing SVG Banner" />
 </div>
 
-<div style="font-family: monospace;">
-Hi, I'm Navaneeth Sankar K.P.
-</div>
+---
+
+<tt>Hi, I'm Navaneeth Sankar K.P.</tt>
+
+---
 
 <details>
 <summary><tt>Education</tt></summary>
@@ -58,39 +60,6 @@ Hi, I'm Navaneeth Sankar K.P.
 </tt>
 </details>
 
-<div style="font-family: monospace;">
-My favorite tools and technologies:
-</div>
-<br>
-<p align="left">
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgithub" alt="github"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dfigma" alt="figma"/></a>
-<a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dframer" alt="framer"/></a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dps" alt="photoshop"/></a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dai" alt="illustrator"/></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dblender" alt="blender"/></a>
-<a href="https://www.protopie.io/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dprotopie" alt="protopie"/></a>
-<a href="https://spline.design/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dspline" alt="spline"/></a>
-<a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnotion" alt="notion"/></a>
-<a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dslack" alt="slack"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml" alt="html5"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcss" alt="css3"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs" alt="javascript"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy" alt="python"/></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dvscode" alt="vscode"/></a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dandroidstudio" alt="androidstudio"/></a>
-<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dxcode" alt="xcode"/></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dswift" alt="swift"/></a>
-</p>
-
-<div style="font-family: monospace;">
-Connect & Explore
-</div>
-<br>
-<a href="https://be.net/navaneethsankar" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-be.net/navaneethsankar-purple%3Flogo%3Dbehance%26logoColor%3Dwhite%26style%3Dfor-the-badge" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/navaneeth-sankar-k-p" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Navaneeth%2520Sankar%2520K.P-blue%3Flogo%3Dlinkedin%26style%3Dfor-the-badge" alt="LinkedIn"/></a>
-<a href="mailto:nave.ethan1337@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-nave.ethan1337%2540gmail.com-red%3Flogo%3Dgmail%26style%3Dfor-the-badge" alt="Email"/></a>
-
 <details>
 <summary><tt>Community</tt></summary>
 <tt>
@@ -100,3 +69,41 @@ Connect & Explore
 </ul>
 </tt>
 </details>
+
+---
+
+<tt>My favorite tools and technologies:</tt>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/><br>Figma</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" alt="Blender"/><br>Blender</td>
+    <td align="center"><img src="https://pbs.twimg.com/media/FuBpfeOaUAAOKsI.jpg" width="40" alt="Framer"/><br>Framer</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/500px-Adobe_Photoshop_CC_icon.svg.png" width="40" alt="Photoshop"/><br>Photoshop</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="40" alt="Illustrator"/><br>Illustrator</td>
+    <td align="center"><img src="https://spline.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspline_logo.647803e0.png&w=128&q=75" width="40" alt="Spline"/><br>Spline</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/><br>VS Code</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" alt="Notion"/><br>Notion</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/><br>HTML5</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/><br>CSS3</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/21099005?s=280&v=4" width="40" alt="ProtoPie"/><br>ProtoPie</td>
+    <td align="center"><img src="https://media.licdn.com/dms/image/v2/C4E0BAQFXRF_SIzwJaA/company-logo_200_200/company-logo_200_200/0/1673342998853/jittervideo_logo?e=2147483647&v=beta&t=JOj-iHN4FE-fVqFzPAeY4BOLoQHUnyMZRN1rXylH1dA" width="40" alt="Jitter"/><br>Jitter</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/><br>GitHub</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio"/><br>Android Studio</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" alt="Xcode"/><br>Xcode</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" alt="Swift"/><br>Swift</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" alt="Slack"/><br>Slack</td>
+  </tr>
+</table>
+
+---
+
+<tt>Connect & Explore</tt>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-be.net/navaneethsankar-purple?logo=behance&logoColor=white)](https://be.net/navaneethsankar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Navaneeth%20Sankar%20K.P-blue?logo=linkedin)](https://linkedin.com/in/navaneeth-sankar-k-p)
+[![Email](https://img.shields.io/badge/Email-nave.ethan1337%40gmail.com-red?logo=gmail)](mailto:nave.ethan1337@gmail.com)
+
+---
