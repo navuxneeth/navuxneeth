@@ -6,7 +6,7 @@
 
 ---
 
-<tt>Hi, I'm Navaneeth Sankar K.P.</tt>
+<tt>Open to UI Design, UX Research, Web Design, Web Dev, Graphic Design, Motion Design Freelance and Contract. Cheap, Brilliant, Fast.</tt>
 
 ---
 
