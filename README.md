@@ -41,7 +41,7 @@
 <div>
   <img src="https://media.licdn.com/dms/image/v2/D560BAQEMilR_wBRNpw/company-logo_100_100/company-logo_100_100/0/1666347917743/entitydesignstudio_logo?e=1760572800&v=beta&t=8nYbwgmT9sw15UQ_SW5KcI6DsvFeBu3c2TFupKwfg6Q" width="18" style="vertical-align:middle;" alt="Entity Design Studio" /> Entity Design Studio: Design Contractor (2020–2023)
 </div>
-</ul>ul>
+</ul>
 </details>
 
 <details>
