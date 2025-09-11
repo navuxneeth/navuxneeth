@@ -117,8 +117,6 @@ My favorite tools:
 
 ---
 
-Connect & Explore
-
 <!-- Button colors customized as requested -->
 <a href="https://be.net/navaneethsankar">
   <img src="https://img.shields.io/badge/Portfolio-be.net/navaneethsankar-4FC3F7?logo=behance&logoColor=white" alt="Portfolio (Behance)" />
