@@ -27,10 +27,10 @@
 <ul>
 <li> - - - 4 years --- 7 months</li>
 <div>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="18" style="vertical-align:middle;" alt="Perplexity" /> @Perplexity: Growth Partner (2025 till Present)
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="18" style="vertical-align:middle;" alt="Perplexity" /> Perplexity: Growth Partner (2025 till Present)
 </div>
 <div>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYH0t_lj5cLdc1TlmJVBBOPeXDHKGqaIK7nQ&s" width="18" style="vertical-align:middle;" alt="Wilson Wings" /> Wilson Wings: Founding UX Researcher (2025)
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYH0t_lj5cLdc1TlmJVBBOPeXDHKGqaIK7nQ&s" width="18" style="vertical-align:middle;" alt="Wilson Wings" /> Wilson Wings: Founding UX Researcher of Travlo (2025)
 </div>
 <div>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK0HLiffPw0HWJ0sR3bLLJNVfBFCnJXLjMOg&s" width="18" style="vertical-align:middle;" alt="XIRCLS" /> XIRCLS: B2B UX Design Intern (2024)
