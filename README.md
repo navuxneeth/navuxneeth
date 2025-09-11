@@ -1,30 +1,27 @@
-<!-- Animated SVG Banner: UX + Data Science (Monospace Font) -->
+<!-- Animated SVG Banner: UX + Data Science -->
 
 <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=21B4F7&width=700&lines=UX+%2B+Data+Science+%3D+Remarkable+Products;" alt="Typing SVG Banner" />
-
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DMonospace%26pause%3D1000%26color%3D21B4F7%26width%3D700%26lines%3DUX%2B%252B%2BData%2BScience%2B%253D%2BRemarkable%2BProducts;" alt="Typing SVG Banner" />
 </div>
 
----
-
-<span style="font-family: 'Fira Mono', 'Menlo', 'Monaco', 'Consolas', monospace;">
+<div style="font-family: monospace;">
 Hi, I'm Navaneeth Sankar K.P.
-</span>
-
----
+</div>
 
 <details>
-<summary><span style="font-family: 'Fira Mono', monospace;">Education</span></summary>
+<summary><tt>Education</tt></summary>
+<tt>
 <ul>
 <li>MIT Institute of Design, Pune (B.Des in User Experience Design, 2023–2027)</li>
 <li>IIT Madras (B.S in Data Science & Applications, 2024–2028) (Parallel Degree)</li>
 <li>Polygon School Of Design · THiNC Institute · CBSE (PCMB)</li>
 </ul>
+</tt>
 </details>
 
 <details>
-<summary><span style="font-family: 'Fira Mono', monospace;">Work Experience</span></summary>
+<summary><tt>Work Experience</tt></summary>
+<tt>
 <ul>
 <li>Perplexity – Strategic Growth Partner (2025–Present)</li>
 <li>Wilson Wings – Founding UX Researcher (2025)</li>
@@ -33,20 +30,24 @@ Hi, I'm Navaneeth Sankar K.P.
 <li>Design Tutor – Interaction, Motion, Graphics, Video (2024)</li>
 <li>Entity Design Studio – Contractor (2020–2023)</li>
 </ul>
+</tt>
 </details>
 
 <details>
-<summary><span style="font-family: 'Fira Mono', monospace;">Selected Projects & Research</span></summary>
+<summary><tt>Selected Projects & Research</tt></summary>
+<tt>
 <ul>
 <li>Beyond the Turing Test: Authenticity of AI-generated qualitative data in HCI</li>
 <li>ICoRD'25, FDE'24 IIT Conferences: AI/UX interplay, Full-Podium presentations</li>
 <li>Logo Designs: ChemNotes, MathNotes, BioNotes, PhyNotes</li>
 <li>Photography: Meatonz branding & product shoots</li>
 </ul>
+</tt>
 </details>
 
 <details>
-<summary><span style="font-family: 'Fira Mono', monospace;">Certifications & Awards</span></summary>
+<summary><tt>Certifications & Awards</tt></summary>
+<tt>
 <ul>
 <li>3rd Place Product Design, Archcult (NIT Trichy)</li>
 <li>Google UX Design (Foundations, Empathize, Wireframes)</li>
@@ -54,52 +55,48 @@ Hi, I'm Navaneeth Sankar K.P.
 <li>Colorcode: Adobe Suite</li>
 <li>EF SET: C2 Level English</li>
 </ul>
+</tt>
 </details>
 
----
-
-<span style="font-family: 'Fira Mono', monospace;">
+<div style="font-family: monospace;">
 My favorite tools and technologies:
-</span>
-
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; font-family: 'Fira Mono', monospace;">
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" />
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/framer-icon.svg" alt="Framer" />
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" />
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/photoshop-icon.svg" alt="Photoshop" />
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/jitter-icon.svg" alt="Jitter" />
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/illustrator-icon.svg" alt="Adobe Illustrator" />
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/blender-icon.svg" alt="Blender" />
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/protopie-icon.svg" alt="Protopie" />
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/spline-icon.svg" alt="Spline" />
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/notion-icon.svg" alt="Notion" />
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/slack-icon.svg" alt="Slack" />
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/html5-icon.svg" alt="HTML5" />
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/css3-icon.svg" alt="CSS3" />
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" />
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" />
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="Visual Studio Code" />
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/androidstudio-icon.svg" alt="Android Studio" />
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/xcode-icon.svg" alt="Xcode" />
-  <img height="32" width="32" src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" />
 </div>
+<br>
+<p align="left">
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgithub" alt="github"/></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dfigma" alt="figma"/></a>
+<a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dframer" alt="framer"/></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dps" alt="photoshop"/></a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dai" alt="illustrator"/></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dblender" alt="blender"/></a>
+<a href="https://www.protopie.io/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dprotopie" alt="protopie"/></a>
+<a href="https://spline.design/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dspline" alt="spline"/></a>
+<a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnotion" alt="notion"/></a>
+<a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dslack" alt="slack"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml" alt="html5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcss" alt="css3"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs" alt="javascript"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy" alt="python"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dvscode" alt="vscode"/></a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dandroidstudio" alt="androidstudio"/></a>
+<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dxcode" alt="xcode"/></a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dswift" alt="swift"/></a>
+</p>
 
----
-
-<span style="font-family: 'Fira Mono', monospace;">
+<div style="font-family: monospace;">
 Connect & Explore
-</span>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-be.net/navaneethsankar-purple?logo=behance&logoColor=white)](https://be.net/navaneethsankar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Navaneeth%20Sankar%20K.P-blue?logo=linkedin)](https://linkedin.com/in/navaneeth-sankar-k-p)
-[![Email](https://img.shields.io/badge/Email-nave.ethan1337%40gmail.com-red?logo=gmail)](mailto:nave.ethan1337@gmail.com)
-
----
+</div>
+<br>
+<a href="https://be.net/navaneethsankar" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-be.net/navaneethsankar-purple%3Flogo%3Dbehance%26logoColor%3Dwhite%26style%3Dfor-the-badge" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/navaneeth-sankar-k-p" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Navaneeth%2520Sankar%2520K.P-blue%3Flogo%3Dlinkedin%26style%3Dfor-the-badge" alt="LinkedIn"/></a>
+<a href="mailto:nave.ethan1337@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-nave.ethan1337%2540gmail.com-red%3Flogo%3Dgmail%26style%3Dfor-the-badge" alt="Email"/></a>
 
 <details>
-<summary><span style="font-family: 'Fira Mono', monospace;">Community</span></summary>
+<summary><tt>Community</tt></summary>
+<tt>
 <ul>
 <li>Google Maps Local Guide (150K+ views, 75+ contributions)</li>
 <li>Quora Contributor: 200+ answers, 600K+ views</li>
 </ul>
+</tt>
 </details>
