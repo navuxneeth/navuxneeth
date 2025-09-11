@@ -1,37 +1,30 @@
-<!-- Animated SVG Banner: UX + Data Science -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=21B4F7&width=700&lines=UX+%2B+Data+Science+%3D+Remarkable+Products;" alt="Typing SVG Banner" />
-</div>
+<!-- Animated SVG Banner: UX + Data Science (Monospace Font) -->
 
 <div align="center">
-  <!-- Shields for education, research, projects -->
-  <img src="https://img.shields.io/badge/User%20Experience%20Design-MIT%20Institute%20of%20Design-blue?logo=mit" />
-  <img src="https://img.shields.io/badge/Data%20Science-IIT%20Madras-orange?logo=python" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=21B4F7&width=700&lines=UX+%2B+Data+Science+%3D+Remarkable+Products;" alt="Typing SVG Banner" />
+
 </div>
 
 ---
 
+<span style="font-family: 'Fira Mono', 'Menlo', 'Monaco', 'Consolas', monospace;">
 Hi, I'm Navaneeth Sankar K.P.
-
-Currently:  
-- Dual-degree: B.Des (UX Design, MIT-ID Pune) & B.S (Data Science, IIT Madras)  
-- Strategic Growth Partner at Perplexity  
-- First-author of 5+ research papers (AI, HCI, UX/Data Science)  
-- 4+ years, 74+ Design projects: B2B, B2C, SaaS, 3D, Branding
+</span>
 
 ---
 
 <details>
-<summary>Education</summary>
+<summary><span style="font-family: 'Fira Mono', monospace;">Education</span></summary>
 <ul>
 <li>MIT Institute of Design, Pune (B.Des in User Experience Design, 2023–2027)</li>
-<li>IIT Madras (B.S in Data Science & Applications, 2024–2028)</li>
+<li>IIT Madras (B.S in Data Science & Applications, 2024–2028) (Parallel Degree)</li>
 <li>Polygon School Of Design · THiNC Institute · CBSE (PCMB)</li>
 </ul>
 </details>
 
 <details>
-<summary>Work Experience</summary>
+<summary><span style="font-family: 'Fira Mono', monospace;">Work Experience</span></summary>
 <ul>
 <li>Perplexity – Strategic Growth Partner (2025–Present)</li>
 <li>Wilson Wings – Founding UX Researcher (2025)</li>
@@ -43,17 +36,17 @@ Currently:
 </details>
 
 <details>
-<summary>Selected Projects & Research</summary>
+<summary><span style="font-family: 'Fira Mono', monospace;">Selected Projects & Research</span></summary>
 <ul>
 <li>Beyond the Turing Test: Authenticity of AI-generated qualitative data in HCI</li>
-<li>ICoRD'25, FDE'24 IIT Conferences: AI/UX interplay, podium presentations</li>
+<li>ICoRD'25, FDE'24 IIT Conferences: AI/UX interplay, Full-Podium presentations</li>
 <li>Logo Designs: ChemNotes, MathNotes, BioNotes, PhyNotes</li>
 <li>Photography: Meatonz branding & product shoots</li>
 </ul>
 </details>
 
 <details>
-<summary>Certifications & Awards</summary>
+<summary><span style="font-family: 'Fira Mono', monospace;">Certifications & Awards</span></summary>
 <ul>
 <li>3rd Place Product Design, Archcult (NIT Trichy)</li>
 <li>Google UX Design (Foundations, Empathize, Wireframes)</li>
@@ -65,19 +58,37 @@ Currently:
 
 ---
 
-Skills & Tech Stack  
-![Figma](https://img.shields.io/badge/Figma-333?logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?logo=framer)
-![Adobe Suite](https://img.shields.io/badge/Adobe-Photoshop%2C%20XD%2C%20Illustrator-red?logo=adobe)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-FAFAFA?logo=blender)
-![Data Science](https://img.shields.io/badge/Data%20Science%20%26%20ML-yellow?logo=scikitlearn)
-![UX Research](https://img.shields.io/badge/UX-Research-brightgreen?logo=usercentrics)
-![3D Design](https://img.shields.io/badge/3D-Design-blueviolet?logo=unity)
+<span style="font-family: 'Fira Mono', monospace;">
+My favorite tools and technologies:
+</span>
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; font-family: 'Fira Mono', monospace;">
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" />
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/framer-icon.svg" alt="Framer" />
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" />
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/photoshop-icon.svg" alt="Photoshop" />
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/jitter-icon.svg" alt="Jitter" />
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/illustrator-icon.svg" alt="Adobe Illustrator" />
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/blender-icon.svg" alt="Blender" />
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/protopie-icon.svg" alt="Protopie" />
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/spline-icon.svg" alt="Spline" />
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/notion-icon.svg" alt="Notion" />
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/slack-icon.svg" alt="Slack" />
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/html5-icon.svg" alt="HTML5" />
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/css3-icon.svg" alt="CSS3" />
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" />
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" />
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="Visual Studio Code" />
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/androidstudio-icon.svg" alt="Android Studio" />
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/xcode-icon.svg" alt="Xcode" />
+  <img height="32" width="32" src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" />
+</div>
 
 ---
 
+<span style="font-family: 'Fira Mono', monospace;">
 Connect & Explore
+</span>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-be.net/navaneethsankar-purple?logo=behance&logoColor=white)](https://be.net/navaneethsankar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Navaneeth%20Sankar%20K.P-blue?logo=linkedin)](https://linkedin.com/in/navaneeth-sankar-k-p)
@@ -86,10 +97,9 @@ Connect & Explore
 ---
 
 <details>
-<summary>Community</summary>
+<summary><span style="font-family: 'Fira Mono', monospace;">Community</span></summary>
 <ul>
 <li>Google Maps Local Guide (150K+ views, 75+ contributions)</li>
 <li>Quora Contributor: 200+ answers, 600K+ views</li>
-<li>Birthday: September 16</li>
 </ul>
 </details>
