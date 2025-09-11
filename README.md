@@ -13,37 +13,40 @@
 
 <details>
 <summary><tt>Education</tt></summary>
+
 <ul>
 <li>MIT Institute of Design, Pune (B.Des in User Experience Design, 2023–2027)</li>
 <li>IIT Madras (B.S in Data Science & Applications, 2024–2028) (Parallel Degree)</li>
-<li>Polygon School Of Design (2022) · THiNC Institute of Design (2021)</li>
-<li><b>Certificates</b>: 4/7 Courses of Google UX Design (Coursera, 2022) · Blender 3D and Substance Painter Certification (Udemy, 2022) · Adobe Creative Suite (Colorcode, 2022) · Graphic Design (Kaarwan, 2022) · AutoCAD (ACADD, 2022)</li>
+<li>Polygon School Of Design (2022) | THiNC Institute of Design (2021)</li>
+<li><b>Certificates</b>: 4/7 Courses of Google UX Design (Coursera, 2022) | Blender 3D and Substance Painter Certification (Udemy, 2022) | Adobe Creative Suite (Colorcode, 2022) | Graphic Design (Kaarwan, 2022) | AutoCAD (ACADD, 2022)</li>
 </ul>
 </details>
 
 <details>
 <summary><tt>Work Experience</tt></summary>
-<ul>
-<li>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="18" style="vertical-align:middle;" alt="Perplexity" /> Perplexity – Strategic Growth Partner (2025–Present)
-</li>
-<li>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYH0t_lj5cLdc1TlmJVBBOPeXDHKGqaIK7nQ&s" width="18" style="vertical-align:middle;" alt="Wilson Wings" /> Wilson Wings – Founding UX Researcher (2025)
-</li>
-<li>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK0HLiffPw0HWJ0sR3bLLJNVfBFCnJXLjMOg&s" width="18" style="vertical-align:middle;" alt="XIRCLS" /> XIRCLS – B2B UX Design Intern (2024)
-</li>
-<li>
-  <img src="https://pbs.twimg.com/profile_images/1441796976916393998/TJd7yOJD_400x400.jpg" width="18" style="vertical-align:middle;" alt="GreenBhumi" /> GreenBhumi – Co-head of Design (2024)
-</li>
-<li>
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQEMilR_wBRNpw/company-logo_100_100/company-logo_100_100/0/1666347917743/entitydesignstudio_logo?e=1760572800&v=beta&t=8nYbwgmT9sw15UQ_SW5KcI6DsvFeBu3c2TFupKwfg6Q" width="18" style="vertical-align:middle;" alt="Entity Design Studio" /> Entity Design Studio – Design Contractor (2020–2023)
-</li>
-</ul>
+
+<!-- No bullets, just lines per entry -->
+<li>4 years and 7 months</li>
+<div>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="18" style="vertical-align:middle;" alt="Perplexity" /> Perplexity: Growth Partner (2025–Present)
+</div>
+<div>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYH0t_lj5cLdc1TlmJVBBOPeXDHKGqaIK7nQ&s" width="18" style="vertical-align:middle;" alt="Wilson Wings" /> Wilson Wings: Founding UX Researcher (2025)
+</div>
+<div>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK0HLiffPw0HWJ0sR3bLLJNVfBFCnJXLjMOg&s" width="18" style="vertical-align:middle;" alt="XIRCLS" /> XIRCLS: B2B UX Design Intern (2024)
+</div>
+<div>
+  <img src="https://pbs.twimg.com/profile_images/1441796976916393998/TJd7yOJD_400x400.jpg" width="18" style="vertical-align:middle;" alt="GreenBhumi" /> GreenBhumi: Co-head of Design (2024)
+</div>
+<div>
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQEMilR_wBRNpw/company-logo_100_100/company-logo_100_100/0/1666347917743/entitydesignstudio_logo?e=1760572800&v=beta&t=8nYbwgmT9sw15UQ_SW5KcI6DsvFeBu3c2TFupKwfg6Q" width="18" style="vertical-align:middle;" alt="Entity Design Studio" /> Entity Design Studio: Design Contractor (2020–2023)
+</div>
 </details>
 
 <details>
 <summary><tt>First-Authored Research</tt></summary>
+
 <ul>
 <li>
   <a href="https://link.springer.com/chapter/10.1007/978-981-96-5503-8_12">The Collaborative Interplay Between Data Science and UX Research (Springer Nature, ICoRD'25 Full-Podium)</a>
@@ -65,17 +68,19 @@
 
 <details>
 <summary><tt>Awards</tt></summary>
+
 <ul>
-<li>Samsung Agentic AI Design Hackathon 1st Place MIT ADT (2025)</li>
-<li>Product Design 3rd place ArchCult NIT Trichy (2022)</li>
-<li>District Finals Club Mathematica NIT Calicut (2019)</li>
-<li>Digital Technologies Credit UNSW (2015)</li>
-<li>Computer Skills Distinction UNSW (2013)</li>
+<li>Samsung Agentic AI Design Hackathon 1st Place (MIT ADT Pune, 2025)</li>
+<li>Product Design 3rd place ArchCult (NIT Trichy, 2022)</li>
+<li>District Finals Club Mathematica (NIT Calicut, 2019)</li>
+<li>Digital Technologies Credit (UNSW Australia, 2015)</li>
+<li>Computer Skills Distinction (UNSW Australia, 2013)</li>
 </ul>
 </details>
 
 <details>
 <summary><tt>Community</tt></summary>
+
 <ul>
 <li>Google Maps Local Guide (150K+ views, 75+ contributions)</li>
 <li>Quora Contributor: 200+ answers, 600K+ views</li>
@@ -114,8 +119,15 @@ My favorite tools:
 
 Connect & Explore
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-be.net/navaneethsankar-blue?logo=behance&logoColor=white)](https://be.net/navaneethsankar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Navaneeth%20Sankar%20K.P-blue?logo=linkedin)](https://linkedin.com/in/navaneeth-sankar-k-p)
-[![Email](https://img.shields.io/badge/Email-nave.ethan1337%40gmail.com-blue?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGRhdGEtbmFtZT0iTGF5ZXIgMiI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiB4PSIyIiB5PSI0IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHBhdGggZD0iTTQgOCAxMiAxNC44IDIgNiIvPjxwYXRoIGQ9Ik0yMCA4IDEyIDE0LjggMjIgNiIvPjxsaW5lIHgxPSI0IiB5MT0iOCIgeDI9IjIwIiB5Mj0iOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PC9nPjwvc3ZnPg==" )](mailto:nave.ethan1337@gmail.com)
+<!-- Button colors customized as requested -->
+<a href="https://be.net/navaneethsankar">
+  <img src="https://img.shields.io/badge/Portfolio-be.net/navaneethsankar-4FC3F7?logo=behance&logoColor=white" alt="Portfolio (Behance)" />
+</a>
+<a href="https://linkedin.com/in/navaneeth-sankar-k-p">
+  <img src="https://img.shields.io/badge/LinkedIn-Navaneeth%20Sankar%20K.P-blue?logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:nave.ethan1337@gmail.com">
+  <img src="https://img.shields.io/badge/Email-nave.ethan1337%40gmail.com-002147?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGRhdGEtbmFtZT0iTGF5ZXIgMiI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiB4PSIyIiB5PSI0IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHBhdGggZD0iTTQgOCAxMiAxNC44IDIgNiIvPjxwYXRoIGQ9Ik0yMCA4IDEyIDE0LjggMjIgNiIvPjxsaW5lIHgxPSI0IiB5MT0iOCIgeDI9IjIwIiB5Mj0iOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PC9nPjwvc3ZnPg==" alt="Email" />
+</a>
 
 ---
