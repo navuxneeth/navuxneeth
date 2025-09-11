@@ -24,11 +24,10 @@
 
 <details>
 <summary><tt>Work Experience</tt></summary>
-
-<!-- No bullets, just lines per entry -->
-<li>4 years and 7 months</li>
+<ul>
+<li> - - - 4 years --- 7 months</li>
 <div>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="18" style="vertical-align:middle;" alt="Perplexity" /> Perplexity: Growth Partner (2025–Present)
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="18" style="vertical-align:middle;" alt="Perplexity" /> @Perplexity: Growth Partner (2025 till Present)
 </div>
 <div>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYH0t_lj5cLdc1TlmJVBBOPeXDHKGqaIK7nQ&s" width="18" style="vertical-align:middle;" alt="Wilson Wings" /> Wilson Wings: Founding UX Researcher (2025)
@@ -42,6 +41,7 @@
 <div>
   <img src="https://media.licdn.com/dms/image/v2/D560BAQEMilR_wBRNpw/company-logo_100_100/company-logo_100_100/0/1666347917743/entitydesignstudio_logo?e=1760572800&v=beta&t=8nYbwgmT9sw15UQ_SW5KcI6DsvFeBu3c2TFupKwfg6Q" width="18" style="vertical-align:middle;" alt="Entity Design Studio" /> Entity Design Studio: Design Contractor (2020–2023)
 </div>
+</ul>ul>
 </details>
 
 <details>
