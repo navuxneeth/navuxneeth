@@ -25,7 +25,7 @@
 <details>
 <summary><tt>Work Experience</tt></summary>
 <ul>
-<li> - - - - - - - - - - - - 4 years 7 months</li>
+<li> - - - - - - - - - - - - <tt>4.6 Years</tt> </li>
 <div>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="18" style="vertical-align:middle;" alt="Perplexity" /> Perplexity - Growth Partner (2025 till Present)
 </div>
@@ -110,6 +110,7 @@ My favorite tools ----->
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" alt="Notion"/><br>Notion</td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/21099005?s=280&v=4" width="40" alt="ProtoPie"/><br>ProtoPie</td>
     <td align="center"><img src="https://f.hellowork.com/bdmtools/2024/02/Logo-Jitter-150x150.png" width="40" alt="Jitter"/><br>Jitter</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Google_ai_studio_logo.png" width="40" alt="GoogleAIStudio"/><br>AIStudio</td>
     <td align="center"><img src="https://imgs.search.brave.com/LY7qyCUaRbJIsJSNLu0frQhblxtCWxRnUju6po1CebM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYXJ0cy5jb20v/ZmlsZXMvOC9HaXRo/dWItTG9nby1GcmVl/LVBORy1JbWFnZS5w/bmc" width="40" alt="GitHub"/><br>GitHub</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" alt="AndroidIDE"/><br>AndroidIDE</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" alt="Xcode"/><br>Xcode</td>
