@@ -110,7 +110,7 @@ My favorite tools ----->
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" alt="Notion"/><br>Notion</td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/21099005?s=280&v=4" width="40" alt="ProtoPie"/><br>ProtoPie</td>
     <td align="center"><img src="https://f.hellowork.com/bdmtools/2024/02/Logo-Jitter-150x150.png" width="40" alt="Jitter"/><br>Jitter</td>
-    <td align="center"><img src="https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="40" alt="GitHub"/><br>GitHub</td>
+    <td align="center"><img src="https://imgs.search.brave.com/LY7qyCUaRbJIsJSNLu0frQhblxtCWxRnUju6po1CebM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYXJ0cy5jb20v/ZmlsZXMvOC9HaXRo/dWItTG9nby1GcmVl/LVBORy1JbWFnZS5w/bmc" width="40" alt="GitHub"/><br>GitHub</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" alt="AndroidIDE"/><br>AndroidIDE</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" alt="Xcode"/><br>Xcode</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" alt="Slack"/><br>Slack</td>
