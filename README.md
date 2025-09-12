@@ -74,8 +74,8 @@
 
 <ul>
 <li>Samsung Agentic AI Design Hackathon 1st Place (MIT ADT Pune, 2025)</li>
-<li>Product Design 3rd place ArchCult (NIT Trichy, 2022)</li>
-<li>District Finals Club Mathematica (NIT Calicut, 2019)</li>
+<li>ArchCult Product Design 3rd place (NIT Trichy, 2022)</li>
+<li>Club Mathematica District Finals (NIT Calicut, 2019)</li>
 <li>Digital Technologies Credit (UNSW Australia, 2015)</li>
 <li>Computer Skills Distinction (UNSW Australia, 2013)</li>
 </ul>
