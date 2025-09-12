@@ -25,12 +25,12 @@
 <details>
 <summary><tt>Work Experience</tt></summary>
 <ul>
-<li> - - - - - - - - - - -  4 years 7 months</li>
+<li> - - - - - - - - - - - - 4 years 7 months</li>
 <div>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="18" style="vertical-align:middle;" alt="Perplexity" /> Perplexity - Growth Partner (2025 till Present)
 </div>
 <div>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYH0t_lj5cLdc1TlmJVBBOPeXDHKGqaIK7nQ&s" width="18" style="vertical-align:middle;" alt="Wilson Wings" /> Wilson Wings - Founding UX Researcher of Travlo (2025)
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYH0t_lj5cLdc1TlmJVBBOPeXDHKGqaIK7nQ&s" width="18" style="vertical-align:middle;" alt="Wilson Wings" /> Wilson Wings - Founding UX Research Intern of Travlo (2025)
 </div>
 <div>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK0HLiffPw0HWJ0sR3bLLJNVfBFCnJXLjMOg&s" width="18" style="vertical-align:middle;" alt="XIRCLS" /> XIRCLS - B2B UX Design Intern (2024)
@@ -39,7 +39,7 @@
   <img src="https://pbs.twimg.com/profile_images/1441796976916393998/TJd7yOJD_400x400.jpg" width="18" style="vertical-align:middle;" alt="GreenBhumi" /> GreenBhumi - Co-head of Design (2024)
 </div>
 <div>
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQEMilR_wBRNpw/company-logo_100_100/company-logo_100_100/0/1666347917743/entitydesignstudio_logo?e=1760572800&v=beta&t=8nYbwgmT9sw15UQ_SW5KcI6DsvFeBu3c2TFupKwfg6Q" width="18" style="vertical-align:middle;" alt="Entity Design Studio" /> Entity Design Studio - Design Contractor (2020–2023)
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQEMilR_wBRNpw/company-logo_100_100/company-logo_100_100/0/1666347917743/entitydesignstudio_logo?e=1760572800&v=beta&t=8nYbwgmT9sw15UQ_SW5KcI6DsvFeBu3c2TFupKwfg6Q" width="18" style="vertical-align:middle;" alt="Entity Design Studio" /> Entity Design Studio - Part-Time Design Contractor (2020–2023)
 </div>
 </ul>
 </details>
@@ -92,17 +92,17 @@
 
 ---
 
-My favorite tools:
+My favorite tools ----->
 
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/><br>Figma</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" alt="Blender"/><br>Blender</td>
     <td align="center"><img src="https://pbs.twimg.com/media/FuBpfeOaUAAOKsI.jpg" width="40" alt="Framer"/><br>Framer</td>
+    <td align="center"><img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="40" alt="Python"/><br>Python</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/500px-Adobe_Photoshop_CC_icon.svg.png" width="40" alt="Photoshop"/><br>Photoshop</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="40" alt="Illustrator"/><br>Illustrator</td>
     <td align="center"><img src="https://spline.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspline_logo.647803e0.png&w=128&q=75" width="40" alt="Spline"/><br>Spline</td>
-    <td align="center"><img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="40" alt="Python"/><br>Python</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/><br>HTML5</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/><br>CSS3</td>
     <td align="center"><img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" width="40" alt="JavaScript"/><br>JavaScript</td>
