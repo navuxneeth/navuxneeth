@@ -25,7 +25,7 @@
 <details>
 <summary><tt>Work Experience</tt></summary>
 <ul>
-<li> - - - - - - - - - - - - <tt>4.6 Years</tt> </li>
+<li> - - - - - - - - - - - - <tt>4.5+ Years | 74+ Projects </tt> </li>
 <div>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="18" style="vertical-align:middle;" alt="Perplexity" /> Perplexity - Growth Partner (2025 till Present)
 </div>
