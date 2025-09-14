@@ -106,7 +106,7 @@ My favorite tools ----->
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/><br>HTML5</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/><br>CSS3</td>
     <td align="center"><img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" width="40" alt="JavaScript"/><br>JavaScript</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/500px-Adobe_Premiere_Pro_CC_icon.svg.png" width="40" alt="Premiere Pro"/><br>Premiere</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/500px-Adobe_Premiere_Pro_CC_icon.svg.png" width="40" alt="Premiere Pro"/><br>PremiereP</td>
     <td align="center"><img src="https://www.pngkey.com/png/full/764-7646559_davinci-resolve-4-davinci-resolve-icon-png.png" width="40" alt="Davinci Resolve"/><br>DavinciR</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/><br>VSCode</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" alt="Notion"/><br>Notion</td>
