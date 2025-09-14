@@ -12,7 +12,7 @@
 ---
 
 <details>
-<summary><tt>Education</tt></summary>
+<summary><tt>Education & Qualifications</tt></summary>
 
 <ul>
 <li>MIT Institute of Design, Pune (B.Des in User Experience Design, 2023–2027)</li>
