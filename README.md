@@ -92,7 +92,7 @@
 
 ---
 
-My favorite tools ----->
+My favorite tools --->
 
 <table>
   <tr>
