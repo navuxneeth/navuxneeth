@@ -7,7 +7,7 @@
 
 ---
 
-<b>Open to</b> UI Design, UX Research, Web Design and Dev, Graphic Design, Motion Design, in <i>Freelance, Contract, Part-Time and Intern</i> roles.
+<b>Open to</b> UI Design, UX Research, Web Design and Dev, Graphic Design, Motion Design and Video Editing in <i>Freelance, Contract, Part-Time and Intern</i> roles.
 
 ---
 
