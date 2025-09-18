@@ -82,7 +82,7 @@
 </details>
 
 <details>
-<summary><tt>Community</tt></summary>
+<summary><tt>Extras</tt></summary>
 
 <ul>
 <li>Google Maps Local Guide (150K+ views, 75+ contributions)</li>
@@ -90,6 +90,15 @@
 <br>
 <img src="https://res.cloudinary.com/dporqrc5z/image/upload/ar_4:3,c_auto/e_brightness:52/e_improve:outdoor:86/LMF6dk3rNA9EKkB4OALD0PpK7Y_apjqoi.jpg" width="500"/>
 <br>
+
+````
+            _,'|             _.-''``-...___..--';)
+           /_ \'.      __..-' ,      ,--...--'''
+          <\    .`--'''       `     /'
+           `-';'               ;   ; ;
+     __...--''     ___...--_..'  .;.'
+   (,__....----'''       (,..--''
+````
 </ul>
 </details>
 
