@@ -147,11 +147,6 @@ My favorite tools --->
 
 <div align="center">
 
-```
-╔═══════════════════════════════╗
-║        VISITOR  COUNTER       ║
-╚═══════════════════════════════╝
-```
 
 <img src="https://hits.sh/github.com/navuxneeth/navuxneeth.svg?style=for-the-badge&label=Profile%20Views&color=000000&labelColor=000000" alt="Visitor Counter"/>
 
