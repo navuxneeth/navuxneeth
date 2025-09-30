@@ -142,3 +142,17 @@ My favorite tools --->
 <a href="mailto:nave.ethan1337@gmail.com">
   <img src="https://img.shields.io/badge/Email-nave.ethan1337%40gmail.com-154284?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGRhdGEtbmFtZT0iTGF5ZXIgMiI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiB4PSIyIiB5PSI0IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHBhdGggZD0iTTQgOCAxMiAxNC44IDIgNiIvPjxwYXRoIGQ9Ik0yMCA4IDEyIDE0LjggMjIgNiIvPjxsaW5lIHgxPSI0IiB5MT0iOCIgeDI9IjIwIiB5Mj0iOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PC9nPjwvc3ZnPg==" alt="Email" />
 </a>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════╗
+║   👾  VISITOR  COUNTER  👾   ║
+╚═══════════════════════════════╝
+```
+
+<img src="https://hits.sh/github.com/navuxneeth/navuxneeth.svg?style=for-the-badge&label=Profile%20Views&color=000000&labelColor=000000" alt="Visitor Counter"/>
+
+</div>
