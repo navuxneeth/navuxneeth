@@ -27,7 +27,7 @@
 <ul>
 <li> - - - - - - - - - - - - <tt>4.5+ Years | 74+ Projects </tt> </li>
 <div>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="18" style="vertical-align:middle;" alt="Perplexity" /> Perplexity - Growth Partner (2025 till Present)
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="18" style="vertical-align:middle;" alt="Perplexity" /> Perplexity - Outreach Partner (2025)
 </div>
 <div>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYH0t_lj5cLdc1TlmJVBBOPeXDHKGqaIK7nQ&s" width="18" style="vertical-align:middle;" alt="Wilson Wings" /> Wilson Wings - Founding UX Research Intern of Travlo (2025)
