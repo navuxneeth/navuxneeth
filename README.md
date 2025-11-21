@@ -39,7 +39,7 @@
   <img src="https://pbs.twimg.com/profile_images/1441796976916393998/TJd7yOJD_400x400.jpg" width="18" style="vertical-align:middle;" alt="GreenBhumi" /> GreenBhumi - Co-head of Design (2024)
 </div>
 <div>
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQEMilR_wBRNpw/company-logo_100_100/company-logo_100_100/0/1666347917743/entitydesignstudio_logo?e=1760572800&v=beta&t=8nYbwgmT9sw15UQ_SW5KcI6DsvFeBu3c2TFupKwfg6Q" width="18" style="vertical-align:middle;" alt="Entity Design Studio" /> Entity Design Studio - Part-Time Design Contractor (2020–2023)
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQEMilR_wBRNpw/company-logo_100_100/company-logo_100_100/0/1666347917743/entitydesignstudio_logo?e=1765411200&v=beta&t=jUUjTKhzfEjJP2tpIe7R2NFvRTtWo1DkbtVelXyo3Jo" width="18" style="vertical-align:middle;" alt="Entity Design Studio" /> Entity Design Studio - Part-Time Design Contractor (2020–2023)
 </div>
 </ul>
 </details>
