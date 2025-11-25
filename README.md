@@ -99,6 +99,7 @@
      __...--''     ___...--_..'  .;.'
    (,__....----'''       (,..--''
 ````
+
 </ul>
 </details>
 
@@ -151,3 +152,9 @@ My favorite tools --->
 <img src="https://hits.sh/github.com/navuxneeth/navuxneeth.svg?style=for-the-badge&label=Profile%20Views&color=000000&labelColor=000000" alt="Visitor Counter"/>
 
 </div>
+
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
+
