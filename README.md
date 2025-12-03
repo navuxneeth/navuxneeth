@@ -27,6 +27,10 @@
 <ul>
 <li> - - - - - - - - - - - - <tt>4.5+ Years | 74+ Projects </tt> </li>
 <div>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4ZuXXjiXef-fi8ZMR5w4VXttEUd0bXw9IA&s" width="18" style="vertical-align:middle;" alt="DO" /> DigitalObsession - UX Design Intern (2025)
+</div>
+<div>
+<div>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="18" style="vertical-align:middle;" alt="Perplexity" /> Perplexity - Outreach Partner (2025)
 </div>
 <div>
