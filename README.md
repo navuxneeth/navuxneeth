@@ -27,7 +27,7 @@
 <ul>
 <li> - - - - - - - - - - - - <tt>4.5+ Years | 74+ Projects </tt> </li>
 <div>
-  <img src="https://d1hbpr09pwz0sk.cloudfront.net/logo_url/digital-obsession-communication-pvt-ltd-455e4ee4" width="18" style="vertical-align:middle;" alt="DO" /> DigitalObsession - UX Design Intern (2025)
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIgWJD_68t6zjN4j7UA0Oij88xU2P_q-yzYg&s" width="18" style="vertical-align:middle;" alt="DO" /> DigitalObsession - UX Design Intern (2025)
 </div>
 <div>
 <div>
