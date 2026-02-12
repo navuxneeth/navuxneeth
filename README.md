@@ -78,6 +78,7 @@
 
 <ul>
 <li>Samsung Agentic AI Design Hackathon 1st Place (MIT ADT Pune, 2025)</li>
+<li>ArchCult NASA Space Apps Challenge Global Nominee (Online, 2025)</li>
 <li>ArchCult Product Design 3rd place (NIT Trichy, 2022)</li>
 <li>Club Mathematica District Finals (NIT Calicut, 2019)</li>
 <li>Digital Technologies Credit (UNSW Australia, 2015)</li>
