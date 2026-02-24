@@ -116,6 +116,7 @@ My favorite tools --->
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/><br>Figma</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" alt="Blender"/><br>Blender</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" alt="React"/><br>React</td>
     <td align="center"><img src="https://pbs.twimg.com/media/FuBpfeOaUAAOKsI.jpg" width="40" alt="Framer"/><br>Framer</td>
     <td align="center"><img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="40" alt="Python"/><br>Python</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/500px-Adobe_Photoshop_CC_icon.svg.png" width="40" alt="Photoshop"/><br>Photoshop</td>
