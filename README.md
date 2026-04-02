@@ -27,6 +27,9 @@
 <ul>
 <li> - - - - - - - - - - - - <tt>4.7+ Years | 78+ Projects </tt> </li>
 <div>
+  <img src="https://www.thoughtparadigm.com/favicon.jpg" width="18" style="vertical-align:middle;" alt="TP" /> ThoughtParadigm - UI/UX Consultant (2026)
+</div>
+<div>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIgWJD_68t6zjN4j7UA0Oij88xU2P_q-yzYg&s" width="18" style="vertical-align:middle;" alt="DO" /> DigitalObsession - UX Design Intern (2025)
 </div>
 <div>
