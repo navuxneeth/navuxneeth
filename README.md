@@ -125,7 +125,10 @@ My favorite tools --->
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/500px-Adobe_Photoshop_CC_icon.svg.png" width="40" alt="Photoshop"/><br>Photoshop</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/250px-Adobe_Illustrator_CC_icon.svg.png" width="40" alt="Illustrator"/><br>Illustrator</td>
     <td align="center"><img src="https://spline.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspline_logo.54f4e584.png&w=128&q=75" width="40" alt="Spline"/><br>Spline</td>
-    <td align="center"><img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png)" width="40" alt="HTML5"/><br>HTML5</td>
+    <td align="center">
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="40" alt="HTML5" />
+  <br>HTML5
+</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/960px-CSS3_logo.svg.png" width="40" alt="CSS3"/><br>CSS3</td>
     <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-svg-download-png-2284965.png" width="40" alt="JS"/> <br>JavaScript</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/500px-Adobe_Premiere_Pro_CC_icon.svg.png" width="40" alt="Premiere Pro"/><br>PremierePro</td>
