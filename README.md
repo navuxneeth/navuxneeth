@@ -124,7 +124,7 @@ My favorite tools --->
     <td align="center"><img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="40" alt="Python"/><br>Python</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/500px-Adobe_Photoshop_CC_icon.svg.png" width="40" alt="Photoshop"/><br>Photoshop</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/250px-Adobe_Illustrator_CC_icon.svg.png" width="40" alt="Illustrator"/><br>Illustrator</td>
-    <td align="center"><img src="https://spline.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspline_logo.54f4e584.png&w=128&q=75" width="40" alt="Spline"/><br>Spline</td>
+    <td align="center"><img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/828810/spline_icon_512-036e8146-63f7-4ab6-b26a-cc80dab6ae5d.png" width="40" alt="Spline"/><br>Spline</td>
     <td align="center">
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="40" alt="HTML5" />
   <br>HTML5
